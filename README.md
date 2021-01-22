@@ -9,9 +9,11 @@ Minecraft Compass Tracking. Right click on a player or run the following command
 `
 
 Will set your compass pointing to the player
+
 `
 /resetcompass 
 `
+
 Will reset the compass toward pointing to default spawn
 
 ## Upcoming Features
