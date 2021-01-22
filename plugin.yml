@@ -1,0 +1,12 @@
+name: compassTracking
+version: 1.0
+author: 
+main: temp.damine.minecraft.compassTracking
+description: Compass Tracking A Player
+commands:
+  setCompassPlayer:
+    description: Set the compass to point to a player
+    usage: /<command> [player]
+  resetCompass:
+    description: Set the compass back to default world spawn
+    usage: /<command>
