@@ -18,5 +18,6 @@ Will reset the compass toward pointing to default spawn
 
 Will get put back blocks instead of overloading nether and end with lodestone
 
+Resetting the compass is still a little buggy
 
 
